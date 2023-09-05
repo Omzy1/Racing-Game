@@ -1,6 +1,5 @@
 # Car racing 3D game built in Unity C#
-## A functional Car Racing 3D unity game written in C# that demonstrates how to make a 3D racing car game in unity 
-which uses an AI controller for the opponent's cars.
+## A functional Car Racing 3D unity game written in C# that demonstrates how to make a 3D racing car game in Unity which uses an AI controller for the opponent's cars.
 The player will be given the choice between Interlagos and Velocity Valley in the main menu's racing game.
 By selecting the option Stats in the main menu, the user can additionally view their scoring statistics, including how many races they won and lost, as well as changing their username. 
 The user will have two racing-type choices (time trail and race) on each of the two racetracks.
